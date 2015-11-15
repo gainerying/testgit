@@ -7,3 +7,4 @@ add in master
 add in clone
 --------------------
 master and clone add new
+master add for time detection
