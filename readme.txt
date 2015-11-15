@@ -5,3 +5,4 @@ add for meld merge test clone and master 2
 add in master
  add in master
 add in clone
+--------------------
