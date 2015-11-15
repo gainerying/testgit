@@ -6,3 +6,4 @@ add in master
  add in master
 add in clone
 --------------------
+clone add new.
