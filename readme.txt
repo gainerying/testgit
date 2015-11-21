@@ -9,3 +9,4 @@ add in clone
 master and clone add new
 master add for time detection
 test reflog command
+newfuck
